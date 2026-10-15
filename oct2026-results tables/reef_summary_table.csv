@@ -1,0 +1,4 @@
+dataset,total_reef,total_50reefs_plus,total_new_50reefs_plus,total_50reefs_plus_beyer_overlap,total_beyer_original,total_beyer_only,total_not_selected,n_eez_country,n_territories_only
+aca_wcmc,552969,165922,128701,37221,147284,110063,276984,81,60
+wcmc,189434,56992,39697,17295,59741,42446,89996,80,56
+aca_coral,121471,36466,24016,12450,42262,29812,55193,79,57
